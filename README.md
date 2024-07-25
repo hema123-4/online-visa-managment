@@ -1,0 +1,1 @@
+created a website for visa management using JDBC which will help to store the data from the user and make user friendly interface using JSP, details like visa registration, ticket booking, room booking, Cost estimation for a trip using user details like Name, email address.
